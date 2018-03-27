@@ -1,0 +1,16 @@
+bin
+cache
+config
+exe
+ide
+ide-shm
+ide-wal
+lock
+obj
+pdb
+resx
+sqlite3
+suo
+swp
+v15
+vs
